@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: #6C0856;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: #84F0F9;
+	padding: 20px;
+}
+.paragraf_2 {color: maroon; background-color: rgba(87,190,192,0.68)}
+.novi_blok {
+	background-color: rgba(202,72,231,0.66);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: #DF6512;
+}
+
+span{color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("slike/fr.jpg");
+}
+.drugapozadina {
+	background-color: #E174DD;
+}
+
+a:link {
+	color:aqua;
+	background-color: hotpink;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #06FBFF
+}
+a:hover{
+	background-color: fuchsia
+}
+img {
+	height: 200px;
+}
